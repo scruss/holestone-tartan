@@ -1,0 +1,7 @@
+#c80000 r
+#004c00 g
+#00004c b
+#000000 k
+#ffc800 y
+g2(b8k1b1k1b1k2g11r2g11k3g2k6g2k6g2k3g11y2g11k2b1k1b1k1b8)g2
+

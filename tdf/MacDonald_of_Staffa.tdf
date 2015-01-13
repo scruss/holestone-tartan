@@ -1,0 +1,8 @@
+#c80000 r
+#004c00 g
+#00004c b
+#000000 k
+#d0d0d0 w
+#ffc800 y
+y1(r6b1r3b1r1g2w1g2r3y1r3k2r1b1r4b1r1g3r3b1r1b1r1b1r1b1)r15
+

@@ -1,0 +1,9 @@
+#c80000 r
+#ff0000 p
+#004c00 g
+#00004c b
+#d0d0d0 w
+#c0c0c0 y
+#000000 k
+r24(y1b2w1y1w1b2y1k1g6k1y1r2p2g1p2r2y1)g3
+

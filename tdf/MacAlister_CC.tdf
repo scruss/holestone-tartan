@@ -1,0 +1,6 @@
+#c80000 r
+#004c00 g
+#000064 b
+#d0d0d0 w
+r4(w1r1g6r12w1r1g18r1w1r32w1r1g18r1w1r12b8r8g8r4g8)r32
+
