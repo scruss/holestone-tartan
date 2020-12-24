@@ -2,7 +2,7 @@
 
 An archive of Robert Bradford's mktartan program, compiled from its
 scattered remains on the net. Mostly recovered from archive.org —
-[https://web.archive.org/web/*/http://www.holestone.net/tartan/](https://web.archive.org/web/*/http://www.holestone.net/tartan/)
+[https://web.archive.org/web/20080515061850/http://www.holestone.net/tartan/mktartan.html](https://web.archive.org/web/20080515061850/http://www.holestone.net/tartan/mktartan.html) — and that page provides usage instructions
 
 ## Build
 
